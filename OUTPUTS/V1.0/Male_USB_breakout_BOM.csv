@@ -1,0 +1,11 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"H1,H2";"HOLE_3.2mm";2;"HOLE_3.2mm";;;
+2;"G***";"Symbol-Front-USB";1;"LOGO";;;
+3;"K1";"HEADER_MALE_4X1";1;"HEADER_MALE_4X1";;;
+4;",,,,";"buzzardLabel";5;"";;;
+5;"REF**";"Logo-Front-SolderedFULL-15mm";1;"Logo-Front-SolderedFULL-15mm";;;
+6;"K2";"USB_A_MALE_CONNECTOR";1;"USB-A-MALE-CONNECTOR";;;
+7;"FD1";"FIDUCIAL_1MM_PASTE";1;"Fiducial_Stencil";;;
+8;"G***";"Logo-Back-OSH-3.5mm";1;"LOGO";;;
+9;"REF**";"Logo-Back-SolderedFULL-15mm";1;"Logo-Front-SolderedFULL-15mm";;;
+10;"";"Version1.0.0.";1;"";;;
